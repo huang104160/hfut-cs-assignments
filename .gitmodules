@@ -13,3 +13,7 @@
 [submodule "大数据处理技术"]
 	path = 大数据处理技术
 	url = https://github.com/wine99/big-data-hfut.git
+
+[submodule "系统软件综合设计/操作系统/virtual-paging-memory-simulation"]
+	path = 系统软件综合设计/操作系统/virtual-paging-memory-simulation
+	url = https://github.com/wine99/virtual-paging-memory-simulation

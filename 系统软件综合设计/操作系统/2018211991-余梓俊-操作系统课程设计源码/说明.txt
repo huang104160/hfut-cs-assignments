@@ -1,0 +1,9 @@
+CMD版本:
+  开发环境: Visual Studio Code, on Ubuntu 20.04 focal(on the Windows Subsystem for Linux), with  GCC 9.3.0
+  可执行文件: build目录下的main（须在linux下运行）
+  测试用例: 运行时程序提示测试用例
+
+GUI版本:
+  开发环境: Qt Creator 4.15.1 based on Qt 5.15.2, on Ubuntu 20.04 focal(on the Windows Subsystem for Linux)
+  可执行文件: build目录下的os-course-design（须在linux下运行）
+  测试用例: 运行时程序输入框已填写测试用例
